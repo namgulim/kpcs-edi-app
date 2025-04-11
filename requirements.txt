@@ -1,2 +1,6 @@
 streamlit
 pandas
+fuzzywuzzy
+python-docx
+pdfplumber
+openpyxl
